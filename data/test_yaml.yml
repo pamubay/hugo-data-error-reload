@@ -1,0 +1,11 @@
+key: value
+array:
+- value1
+- value2
+table:
+  name:
+    tablekey: tablevalue
+    tablearray:
+    - tablevalue1
+    - tablevalue2
+
